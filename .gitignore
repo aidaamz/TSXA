@@ -1,3 +1,4 @@
 .venv/
 __pycache__/
 *.pyc
+PartB_Q2/imdb_cleaned.csv
